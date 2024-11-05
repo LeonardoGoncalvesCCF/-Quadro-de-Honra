@@ -1,0 +1,14 @@
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\bin\Debug\net9.0\QuadroDeHonra.exe
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\bin\Debug\net9.0\QuadroDeHonra.deps.json
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\bin\Debug\net9.0\QuadroDeHonra.runtimeconfig.json
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\bin\Debug\net9.0\QuadroDeHonra.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\bin\Debug\net9.0\QuadroDeHonra.pdb
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.AssemblyInfoInputs.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.AssemblyInfo.cs
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\refint\QuadroDeHonra.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.pdb
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.genruntimeconfig.cache
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\ref\QuadroDeHonra.dll
