@@ -12,3 +12,4 @@ C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\
 C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.pdb
 C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.genruntimeconfig.cache
 C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\ref\QuadroDeHonra.dll
+C:\Users\leonardo\Documents\02 Códigos de Estudo\Quadro de Honra\QuadroDeHonra\obj\Debug\net9.0\QuadroDeHonra.sourcelink.json
